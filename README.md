@@ -1,4 +1,4 @@
-# ForexPrediction
+# Forex Time Series Forecasting with TTM Model
 Forex Time Series Forecasting with TTM Model
 This project demonstrates the use of a pre-trained TTM (Tiny Time Mixer) model for forecasting forex prices using a rolling window training approach. The project is set up to work with historical forex data (e.g., GBPUSD) and supports various time intervals. In this example, we use 1 day interval data and perform rolling window training.
 
