@@ -1,0 +1,7 @@
+rolling_model filter=lfs diff=lfs merge=lfs -text
+finetuned_model_fewshot filter=lfs diff=lfs merge=lfs -text
+.csv filter=lfs diff=lfs merge=lfs -text
+TrainingData/GBPUSD/* filter=lfs diff=lfs merge=lfs -text
+ForexAnalysis/ForexOriginalcode/TrainingData filter=lfs diff=lfs merge=lfs -text
+TrainingData/** filter=lfs diff=lfs merge=lfs -text
+C:/Users/Ankur[[:space:]]Rai/Desktop/New[[:space:]]folder/ForexAnalysis/ForexOriginalcode/TrainingData/** filter=lfs diff=lfs merge=lfs -text

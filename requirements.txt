@@ -1,0 +1,10 @@
+pandas==2.2.3
+numpy==1.26.4
+torch==2.6.0
+transformers==4.48.2
+tsfm_public @ git+https://github.com/ibm-granite/granite-tsfm.git@4db1cfd157767c8de39bedb5c1f90a8d7d6e5850
+scikit-learn==1.6.1
+statsmodels==0.14.4
+matplotlib==3.9.4
+fredapi==0.5.2
+flask==3.1.1
